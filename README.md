@@ -1,2 +1,0 @@
-# myblog
-🍎 Hugo's blog
